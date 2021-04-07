@@ -10,7 +10,7 @@ Hardware and sofware needed.
 - Central application from Blackrock Microsystem (libraries inluded in the BMI_setup file)
 - DLP Vialux Projector, V-7001 with ALP-4.2 API (libraries inluded in the BMI_setup file)
 - Basler Camera, with Pylon suite. (libraries inluded in the BMI_setup file)
-- LickPort, (capacitive, connected to the right Blackrock port
+- LickPort, (capacitive, connected to the right Blackrock port)
 
 The C++ setup code needed for intrinsic imaging is contained in imager_trino. A piezoelectric bender and a trinocular with a camera, triggered by an arduino MEGA are required to make it work
 
