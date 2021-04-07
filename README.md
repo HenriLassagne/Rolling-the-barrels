@@ -5,6 +5,7 @@ The software used in the article was originally designed for an ultra-fast close
 The project and build are contained in the BMI_setup zip file.
 
 Hardware and sofware needed.
+- Qt Creator 5.7, with MVSC 2013 compiler
 - Blackrock Microsystems NSP
 - Central application from Blackrock Microsystem (libraries inluded in the BMI_setup file)
 - DLP Vialux Projector, V-7001 with ALP-4.2 API (libraries inluded in the BMI_setup file)
